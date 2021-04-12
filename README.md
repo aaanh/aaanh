@@ -1,4 +1,6 @@
-### Hi all to `aaanh/aaanh`
+### Hi all to `aaanh/aaanh` 
+
+![](https://komarev.com/ghpvc/?username=aaanh)
 
 -   What I study: B.Eng. Computer Engineering (2024)
 -   Where I study/live: Concordia University, Montreal, QC.
