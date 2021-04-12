@@ -15,6 +15,9 @@
 -   Other interests: pc master race, RomCom manga + light novel, psychology, macro-econ, (south)east-asian culture.
 -   Preferred: komrade Anh, Anh-dono/sama, or simply, Anh.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaanh?hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **aaanh/aaanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
