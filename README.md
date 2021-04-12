@@ -9,7 +9,7 @@
 -   How I'm contacted:
     -   E-mail 1: `hoanganh(dot)theodore(at)icloud(dot)com` (Official)
     -   E-mail 2: `a(underscore)en201(at)encs(dot)concordia(dot)ca` (Academics)
--   What I write: c, c++, python, javascript, html/css/sass, bash/zsh/tsch
+-   What I write: c, c++, python, javascript, html/css/sass, r, bash/zsh/tsch
 -   What I speak: VN (native), EN (bilingual), FR (CEFR B1), JP (casual), DE (casual)
 -   How I relax: music (mostly jp), gaming, guitar, netflix/youtube
 -   Other interests: pc master race, RomCom manga + light novel, psychology, macro-econ, (south)east-asian culture.
@@ -17,4 +17,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaanh&hide=prs,issues&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaanh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaanh&theme=radical&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
