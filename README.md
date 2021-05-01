@@ -20,5 +20,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaanh&theme=radical&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
-
-**Disclaimer**: The content of repository `uni-hwk` is absolutely off-limit for copying, reproducing, or modifying. No exceptions will be provisioned for prospectives. To greedily preserve the academic integrity for myself, the content of aforementioned repository is, again, not publicly licensed unless specifically written per-case. Individuals who break this clause or those end up in academic integrity prosecution by their overseering institutions or academic governing bodies are responsible for their own actions. The owner (myself) cannot be held responsible nor be referenced for the defendants.
