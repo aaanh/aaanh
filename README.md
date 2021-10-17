@@ -2,6 +2,8 @@
 
 Have always been aspired to create some good stuff :^)
 
+Interested in: DevOps, IT Infra, Clustering & Orchestration
+
 Currently:
 - IT Spc. @ Genetec Inc. (internship)
 - AITS @ Concordia Univ. (part-time)
