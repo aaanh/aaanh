@@ -6,6 +6,7 @@ Interested in: DevOps, Infrastructures, Clustering & Orchestration
 
 Currently:
 - IT Spc. @ Genetec Inc. (internship)
+- Tech and Logistics @[HackConcordia](https://github.com/HackConcordia)
 - AITS @ Concordia Univ. (part-time)
 - Undergrad RA @ SAC Research Group
 - Bachelor of Computer Engineering w. Co-op
