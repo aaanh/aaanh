@@ -2,7 +2,9 @@
 
 Have always been aspired to create some good stuff :^)
 
-Interested in: SecOps, DevOps, Infrastructures, Clustering & Orchestration & Automation
+
+Interested and experienced in: SecOps, DevOps, Infrastructures, Clustering & Orchestration & Automation
+
 
 Currently:
 - IT Spc. @ Genetec Inc. (internship)
