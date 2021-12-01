@@ -3,7 +3,7 @@
 Have always been aspired to create some good stuff :^)
 
 
-Interested and experienced in: SecOps, DevOps, Infrastructures, Clustering & Orchestration & Automation
+Interested and experienced in: Full-stack Dev, SecOps/RE, DevOps, SysAdmin, Clustering & Orchestration & Automation
 
 
 Currently:
