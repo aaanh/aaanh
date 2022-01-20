@@ -13,7 +13,7 @@ I'm learning:
 
 - Linux kernel dev, kernel module dev
 - asm-x86, asm-ARM, go, rust, ts, obj-c
-- Encryption, kerberos
+- Encryption/cryptography, kerberos
 - ansible, k8s
 - jest, jenkins
 
