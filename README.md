@@ -1,6 +1,6 @@
 Hi,
 
-Please call me Anh.
+Please call me Anh (IPA: [ʔan˧˧]; sounds like アンー in JP)
 
 I do:
 
