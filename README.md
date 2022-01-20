@@ -2,6 +2,12 @@ Hi,
 
 Please call me Anh (IPA: [ʔan˧˧]; sounds like アンー in JP)
 
+My noteworthy stuff:
+
+- From scrap homepage with react, nextjs, mui: <https://hoanganh.tech>
+- (Personal but open for contribs) Linux/Unix docs: <https://unix.hoanganh.tech>
+- My development blog: <https://dev.hoanganh.tech>
+
 I do:
 
 - Full-stack web and native software development.
@@ -16,6 +22,7 @@ I'm learning:
 - Encryption/cryptography, kerberos
 - ansible, k8s
 - jest, jenkins
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaanh&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
