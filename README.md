@@ -4,7 +4,7 @@ Please call me Anh (IPA: [ʔan˧˧]; sounds like アンー in JP)
 
 My noteworthy stuff:
 
-- From scrap homepage with react, nextjs, mui: <https://hoanganh.tech>
+- From scratch homepage with react, nextjs, mui: <https://hoanganh.tech>
 - (Personal but open for contribs) Linux/Unix docs: <https://unix.hoanganh.tech>
 - My development blog: <https://dev.hoanganh.tech>
 
