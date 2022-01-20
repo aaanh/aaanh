@@ -6,8 +6,16 @@ I do:
 
 - Full-stack web and native software development.
 - Infra, DevOps, SecOps.
-- c, c++, c#, x86-asm, python, r, html, css, js.
+- c, c++, c#, python, r, html, css, js.
 - Healthy dose of (arch) Linux, Mac, and Windows every day.
+
+I'm learning:
+
+- Linux kernel dev, kernel module dev
+- asm-x86, asm-ARM
+- Encryption, kerberos
+- ansible, k8s
+- jest, jenkins
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaanh&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
