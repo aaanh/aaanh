@@ -15,13 +15,11 @@ I do:
 - c, c++, c#, python, r, html, css, js.
 - Healthy dose of (arch) Linux, Mac, and Windows every day.
 
-I'm learning:
+In progress:
 
-- Linux kernel dev, kernel module dev
-- asm-x86, asm-ARM, go, rust, ts, obj-c
-- Encryption/cryptography, kerberos
-- ansible, k8s
-- jest, jenkins
+- Google Cloud associate certification
+- Nestjs backend framework x Prisma database ORM
+- ansible, terraform
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaanh&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
