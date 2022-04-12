@@ -12,14 +12,16 @@ I do:
 
 - Full-stack web and native software development.
 - Infra, DevOps, SecOps.
-- c, c++, c#, python, r, html, css, js.
 - Healthy dose of (arch) Linux, Mac, and Windows every day.
 
-In progress:
+I'm learning:
 
-- Google Cloud associate certification
-- Nestjs backend framework x Prisma database ORM
-- ansible, terraform
+- IBM cloud cert
+- k8s, terraform
+
+I'm reading:
+- Designing Data-Intensive Applications by Martin Kleppmann
+- DSA Analysis by Clifford A. Shaffer
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaanh&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
