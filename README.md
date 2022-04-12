@@ -1,6 +1,6 @@
 Hi,
 
-Please call me Anh (IPA: [ʔan˧˧]; sounds like アンー in JP)
+You can call me Anh. I'm a big sucker for DevOps and cloud architectures.
 
 My noteworthy stuff:
 
