@@ -1,4 +1,4 @@
-Hi,
+Hey, you there, yea you,
 
 You can call me Anh. I'm a big sucker for DevOps and cloud architectures.
 
@@ -13,6 +13,9 @@ I do:
 - Full-stack web and native software development.
 - Infra, DevOps, SecOps.
 - Healthy dose of (arch) Linux, Mac, and Windows every day.
+- My B.Eng. @ Concordia U. (2024)
+- I.T.
+- Research in ML and MLOps
 
 I'm learning:
 
@@ -20,6 +23,7 @@ I'm learning:
 - k8s, terraform
 
 I'm reading:
+
 - Designing Data-Intensive Applications by Martin Kleppmann
 - DSA Analysis by Clifford A. Shaffer
 
