@@ -1,8 +1,6 @@
+![](2EC78893-5D9C-4385-AEE3-5E40CF145339.jpeg)
+
 ```
-Hey, you there, yea you,
-
-You can call me Anh.
-
 I'm a big sucker for DevOps, system design, web technologies, and cloud architectures.
 
 At school, I'm currently researching ML services.
