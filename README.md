@@ -6,4 +6,4 @@ I'm a big sucker for DevOps, system design, web technologies, and cloud architec
 
 At school, I'm an undergraduate student and currently researching ML/AI/XAI services under the guidance of [Professor Liu](https://users.encs.concordia.ca/~liu).
 
-![](https://komarev.com/ghpvc/?username=aaanh)
+<!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
