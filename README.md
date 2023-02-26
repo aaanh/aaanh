@@ -6,6 +6,6 @@ I'm a big sucker for system design, backend dev, DevOps, web technologies, and c
 
 At school, I'm an undergraduate student and currently researching ML/AI/XAI services under the guidance of [Professor Liu](https://users.encs.concordia.ca/~liu).
 
-Activities on GitHub are on hiatus. Currently interning at Nuance/Microsoft.
+Activities on GitHub are on hiatus.
 
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
