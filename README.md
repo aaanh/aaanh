@@ -4,7 +4,7 @@
  -->
 I'm a big sucker for system design, backend dev, DevOps, web technologies, and cloud architectures.
 
-At school, I'm an undergraduate student and currently researching ML/AI/XAI services under the guidance of [Professor Liu](https://users.encs.concordia.ca/~liu).
+At school, I'm an undergraduate student and currently researching ML/AI/XAI services.
 
 Activities on GitHub are on hiatus.
 
