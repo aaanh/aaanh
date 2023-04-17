@@ -13,7 +13,7 @@ Activities on GitHub are on hiatus.
 Canonical sites:
 
 - Homepage: <https://aaanh.ca>
-- GPT API Playground: <https://gpt.aaanh.app>
+- GPT API Playground: Authorized Private <https://gpt.aaanh.app>, Public <https://gpt-demo.aaanh.app>
 - System, DevOps Script KB: <https://aaanh.app>
 - Photo gallery: <https:://photos.aaanh.ca>
 - Tech blog: <https://blog.aaanh.ca>
