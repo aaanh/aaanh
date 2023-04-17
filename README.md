@@ -8,4 +8,15 @@ At school, I'm an undergraduate student and currently researching ML/AI/XAI serv
 
 Activities on GitHub are on hiatus.
 
+<hr/>
+
+Canonical sites:
+
+- Homepage: <https://aaanh.ca>
+- GPT API Playground: <https://gpt.aaanh.app>
+- System, DevOps Script KB: <https://aaanh.app>
+- Photo gallery: <https:://photos.aaanh.ca>
+- Tech blog: <https://blog.aaanh.ca>
+
+
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
