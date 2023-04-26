@@ -12,7 +12,7 @@ Canonical sites:
 
 - Homepage: <https://aaanh.ca>
 - GPT API Playground: 
-  - <https://gpt.aaanh.app>: private SSO, pre-authorized for `*@{nuance,microsoft}.com `
+  - <https://gpt.aaanh.app>: private SSO, pre-authorized for `* @ { nuance, microsoft }.com `
   - <https://gpt-demo.aaanh.app>: public
 - System, DevOps Script KB: <https://aaanh.app>
 - Photo gallery: <https://photos.aaanh.ca>
