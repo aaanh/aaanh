@@ -18,5 +18,8 @@ Canonical sites:
 - Photo gallery: <https://photos.aaanh.ca>
 - Tech blog: <https://blog.aaanh.ca>
 
+<hr/>
+
+Fmr. SWE Intern @ Nuance + Microsoft, Genetec
 
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
