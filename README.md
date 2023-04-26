@@ -20,6 +20,6 @@ Canonical sites:
 
 <hr/>
 
-Fmr. SWE Intern @ Nuance + Microsoft, Genetec
+Fmr. SWE Intern @ `{ Nuance + Microsoft, Genetec }`
 
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
