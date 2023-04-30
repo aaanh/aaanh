@@ -22,6 +22,6 @@ Canonical sites:
 
 Fmr. SWE Intern @ `{ Nuance + Microsoft, Genetec }`
 
-On vacational leave: IT Analyst II @ AITS, Concordia University
+On vacational leave: IT Analyst @ `AITS - Concordia University`
 
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
