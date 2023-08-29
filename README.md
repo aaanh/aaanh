@@ -11,12 +11,9 @@ At school, I'm an undergraduate student and currently researching ML/AI/XAI serv
 Canonical sites:
 
 - Homepage: <https://aaanh.ca>
-- GPT API Playground: 
-  - <https://gpt.aaanh.app>: private, pre-authorized SSO for `* @ { nuance, microsoft }.com `
-  - <https://gpt-demo.aaanh.app>: public
+- GPT API Playground: <https://gpt.aaanh.app>
 - System, DevOps Script KB: <https://aaanh.app>
 - Photo gallery: <https://photos.aaanh.ca>
-- Tech blog: <https://blog.aaanh.ca>
 
 <hr/>
 
