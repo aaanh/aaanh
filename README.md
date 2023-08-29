@@ -20,12 +20,11 @@ Canonical sites:
 
 <hr/>
 
+VP of Tech @ `GCES - Concordia University`
+
 Fmr. SWE Intern @ `{ Nuance + Microsoft, Genetec }`
 
-On vacational leave: IT Analyst @ `AITS - Concordia University`
+Fmr. IT Analyst @ `AITS - Concordia University`
 
-RA @ `SAC Research Group - Concordia University`
-
-VP of Tech @ `GCES - Concordia University`
 
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
