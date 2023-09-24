@@ -11,8 +11,9 @@ At school, I'm an undergraduate student and currently researching ML/AI/XAI serv
 Canonical sites:
 
 - Homepage: <https://aaanh.ca>
-- GPT API Playground: <https://gpt.aaanh.app>
-- System, DevOps Script KB: <https://aaanh.app>
+- My Web App Catalogue: <https://aaanh.app>
+  - GPT API Playground: <https://gpt.aaanh.app>
+  - System, DevOps Script KB: <https://script.aaanh.app>
 - Photo gallery: <https://photos.aaanh.ca>
 
 <hr/>
