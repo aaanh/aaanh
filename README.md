@@ -17,9 +17,11 @@ Canonical sites:
 
 <hr/>
 
+Software and Platform Developer @ `CERC NGCI - Concordia University`
+
 VP of Tech @ `GCES - Concordia University`
 
-Fmr. SWE Intern @ `{ Nuance + Microsoft, Genetec }`
+Fmr. SWE Intern @ `{ Microsoft, Nuance, Genetec }`
 
 Fmr. IT Analyst @ `AITS - Concordia University`
 
