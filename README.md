@@ -19,5 +19,8 @@ Fmr. SWE Intern @ `{ Microsoft, Nuance, Genetec }`
 
 Fmr. IT Analyst @ `AITS - Concordia University`
 
+<hr />
+
+Disclaimer: The views, opinions, operations, and any other at all content owned by me and my account DO NOT represent the views, opinions, works or any at all of my past, present, and current employers, unless explicitly stated.
 
 <!-- ![](https://komarev.com/ghpvc/?username=aaanh) -->
