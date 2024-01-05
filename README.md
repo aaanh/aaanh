@@ -5,6 +5,9 @@ I'm a big sucker for system design, microservices backend, DevSecOps, web techno
 Canonical sites:
 
 - (Latest fiasco) FGO gacha simulator: <https://reroll.ing>
+- (Latest but not as cool) URL shortener: <https://anh.to> try <https://anh.to/nohello>
+  - Cloudflare Workers
+  - Cloudflare KV 
 - Homepage: <https://aaanh.ca>
 - My Web App Catalogue: <https://aaanh.app>
   - GPT API Playground: <https://gpt.aaanh.app>
