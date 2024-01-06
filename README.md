@@ -9,7 +9,7 @@ Canonical sites:
 
 - (Latest fiasco) FGO gacha simulator: <https://reroll.ing>
 - (Latest but not as cool) URL shortener: <https://anh.to> try <https://anh.to/nohello>
-- Homepage: <https://aaanh.ca>
+- Homepage: <https://aaanh.com>
 - My Web App Catalogue: <https://aaanh.app>
   - GPT API Playground: <https://gpt.aaanh.app>
   - System, DevOps Script KB: <https://script.aaanh.app>
