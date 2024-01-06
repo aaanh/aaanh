@@ -1,4 +1,7 @@
+```
+$> whoami
 I'm a big sucker for system design, microservices backend, DevSecOps, web technologies, and cloud architectures.
+```
 
 <hr/>
 
