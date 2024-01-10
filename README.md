@@ -1,6 +1,6 @@
-```
+`
 $> whoami
-```
+`
 
 I'm a big sucker for system design, microservices backend, DevSecOps, web technologies, and cloud architectures.
 
@@ -17,6 +17,8 @@ Canonical sites:
 - Photo gallery: <https://photos.aaanh.ca>
 
 <hr/>
+
+Simulation Software Consultant @ `SimWell.io` (via Mitacs Business Strategy Internship)
 
 VP Tech @ `GCES - Concordia University`
 
