@@ -15,7 +15,7 @@ Canonical sites:
   - GPT API Playground: <https://gpt.aaanh.app>
   - System, DevOps Script KB: <https://script.aaanh.app>
 - Photo gallery: <https://photos.aaanh.ca>
-- My custom Visual Studio Code: <https://marketplace.visualstudio.com/items?itemName=aaanh.artoria-theme>
+- Visual Studio Marketplace: <https://marketplace.visualstudio.com/publishers/aaanh>
 
 <hr/>
 
