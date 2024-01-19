@@ -25,7 +25,7 @@ VP Tech @ `GCES - Concordia University`
 
 Fmr. SWE Intern @ `[ Microsoft, Nuance, Genetec ]`
 
-Fmr. IT Analyst @ `AITS - Concordia University`
+Fmr. IT Analyst @ `[ Genetec, AITS - Concordia University ]`
 
 <hr />
 
