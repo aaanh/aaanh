@@ -11,6 +11,7 @@ Fun stuff:
 - (Latest fiasco) FGO gacha simulator: <https://reroll.ing>
 - (Latest but not as cool) URL shortener: <https://anh.to> try <https://anh.to/nohello> or <https://anh.to/linkedin>
 - Homepage: <https://aaanh.com>
+- Student org's website: <https://gcesconcordia.com>
 - My Web App Catalogue: <https://aaanh.app>
   - GPT API Playground: <https://gpt.aaanh.app>
   - System, DevOps Script KB: <https://script.aaanh.app>
