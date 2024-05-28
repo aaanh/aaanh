@@ -22,7 +22,7 @@ Fun stuff I built:
 
 Simulation Software Consultant @ `SimWell.io` (via [Mitacs Business Strategy Internship](https://www.mitacs.ca/our-programs/business-strategy-internship/))
 
-VP Tech @ `GCES - Concordia University`
+Fmr. VP Tech @ `GCES - Concordia University`
 
 Fmr. SWE Intern @ `[ Microsoft, Nuance, Genetec ]`
 
