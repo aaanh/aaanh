@@ -7,3 +7,7 @@ With massive interests and work done in:
 - DevSecOps
 - Infrastructure development
 - Platform agnostic system administrations
+
+Events:
+
+- Talk at Theiacon 2025, part of Cache and Carry: The Hidden Cost of Memory Misses \[ [web](https://www.eclipse.org/events/2025/theiacon/#agenda-sessions-day-2-thursday-october-30) | recording | [material](https://matthewkhouzam.github.io/slides/theiacon2025/theiacon_2025.html) \]
