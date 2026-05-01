@@ -14,4 +14,6 @@ Events:
 
 > "Guys, I swear, the black voids in the contrib graph are me contributing to advancement of capitalistic profits and increase shareholder value. 😭"
 >
+> Also I've moved most active projects over to muh GitLab: https://gitlab.com/aaanh
+>
 > - Anh, probably, circa 2026
