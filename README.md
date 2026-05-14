@@ -1,5 +1,9 @@
 Wandering mercenary on the encoded sea.
 
+> No active personal development here. This account is now primarily for collaborative contributions to projects on GitHub.
+>
+> For up-to-date personally owned and developed repositories, visit: https://gitlab.com/aaanh.
+
 With massive interests and work done in:
 
 - Software and system architecture
